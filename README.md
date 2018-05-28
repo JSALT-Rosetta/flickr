@@ -30,7 +30,7 @@ tokenization (created by Graham Neubig):
      * flickr_ar_all.txt (with tokenization)
 
 - download forced phone alignments (created by Markus Müller):
-     * flickr_labels.tar ADD LINK TO FILE WITH SAME NAME
+     * flickr_labels.tar
 Note: this file only contains 37794 and not all 40000 files because  
 sometimes forced-alignments failed due to discrepancies between the audio  
 and the transcriptions
