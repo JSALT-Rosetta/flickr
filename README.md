@@ -22,6 +22,9 @@ captions:
 - link to FlickR speech corpus:
      * https://groups.csail.mit.edu/sls/downloads/flickraudio/
 
+- link to semantically labelled Flickr speech corpus (details in https://arxiv.org/abs/1710.01949):
+    * https://github.com/kamperh/semantic_flickraudio
+
 
 JSALT ROSETTA RESOURCES
 - download Japanese NMT translations (created by Google NMT) +  
