@@ -44,11 +44,16 @@ speech:
      * images_data_splits.zip (images)
 
 
-EXTERNAL RESOURCES
+OTHER AND EXTERNAL RESOURCES
 - download the VGG image features:
      * http://isle.illinois.edu/sst/data/images_40k.npz
      * http://isle.illinois.edu/sst/data/vgg_flickr8k.html
+- download visual tags for the Flickr8k images (details in https://arxiv.org/abs/1710.01949):
+    * flickr8k.tags.all.txt.zip
 
 
-Created 22/05/2018, Odette Scharenborg
-Minor revision (moved images_40k off github) 25/05/2018, Mark Hasegawa-Johnson
+EDIT HISTORY
+- Created 22/05/2018, Odette Scharenborg
+- Minor revision (moved images_40k off github) 25/05/2018, Mark Hasegawa-Johnson
+- Added visual tags and link to semantic labels, 18/06/2018, Herman Kamper
+
